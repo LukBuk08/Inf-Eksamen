@@ -1,0 +1,20 @@
+{
+  "test": {
+    "current_room": 3,
+    "selected_topic": "Genetisk screening",
+    "knowledge_pieces": [
+      "Briefing",
+      "Genetisk screening"
+    ],
+    "solved": {
+      "intro_code": true,
+      "intro_data_code": true,
+      "screening_quiz": true,
+      "visitation_quiz": true,
+      "treatment_quiz": true,
+      "monitoring_quiz": true,
+      "bio_sequence": true
+    },
+    "completed": true
+  }
+}
